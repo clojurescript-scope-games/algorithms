@@ -1,5 +1,7 @@
 ## algorithms
 
+Visualize algorithms on Exponent.
+
 ### Usage
 
 #### Install Exponent App from Apple Store or Play Store
