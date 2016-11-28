@@ -1,0 +1,12 @@
+var DummyClass={};
+DummyClass.Alert=function(){};
+DummyClass.AppRegistry=function(){};
+DummyClass.Image=function(){};
+DummyClass.Slider=function(){};
+DummyClass.Switch=function(){};
+DummyClass.Text=function(){};
+DummyClass.TouchableHighlight=function(){};
+DummyClass.View=function(){};
+DummyClass.alert=function(){};
+DummyClass.push=function(){};
+DummyClass.registerComponent=function(){};
