@@ -1,6 +1,7 @@
 ## algorithms
 
 Visualize algorithms on Exponent.
+https://exp.host/@tiensonqin/algorithms
 
 ### Usage
 
