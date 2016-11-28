@@ -24,12 +24,6 @@
 
 (register-handler
   :initialize-db
-  validate-spec-mw
+  ;; validate-spec-mw
   (fn [_ _]
     app-db))
-
-(register-handler
-  :set-greeting
-  validate-spec-mw
-  (fn [db [_ value]]
-    (assoc db :greeting value)))
